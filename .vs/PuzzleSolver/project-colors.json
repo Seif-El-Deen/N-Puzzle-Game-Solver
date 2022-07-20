@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6867152f-66f1-416a-bf40-bd24dd38e0e0": {
+      "ProjectGuid": "6867152f-66f1-416a-bf40-bd24dd38e0e0",
+      "DisplayName": "PuzzleSolver",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

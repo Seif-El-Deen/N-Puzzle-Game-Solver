@@ -1,0 +1,168 @@
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\project\[StudentsVer] Lab7 - Project Release\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.csproj.AssemblyReference.cache
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\project\[StudentsVer] Lab7 - Project Release\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.Form1.resources
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\project\[StudentsVer] Lab7 - Project Release\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.ui.Home.resources
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\project\[StudentsVer] Lab7 - Project Release\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.ui.LargeNForm.resources
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\project\[StudentsVer] Lab7 - Project Release\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.ui.Puzzle8Form.resources
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\project\[StudentsVer] Lab7 - Project Release\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.csproj.GenerateResource.cache
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\project\[StudentsVer] Lab7 - Project Release\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.GeneratedMSBuildEditorConfig.editorconfig
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\project\[StudentsVer] Lab7 - Project Release\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.AssemblyInfoInputs.cache
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\project\[StudentsVer] Lab7 - Project Release\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.AssemblyInfo.cs
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\project\[StudentsVer] Lab7 - Project Release\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.csproj.CoreCompileInputs.cache
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\project\[StudentsVer] Lab7 - Project Release\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.exe
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\project\[StudentsVer] Lab7 - Project Release\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.deps.json
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\project\[StudentsVer] Lab7 - Project Release\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.runtimeconfig.json
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\project\[StudentsVer] Lab7 - Project Release\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.runtimeconfig.dev.json
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\project\[StudentsVer] Lab7 - Project Release\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.dll
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\project\[StudentsVer] Lab7 - Project Release\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\ref\PuzzleSolver.dll
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\project\[StudentsVer] Lab7 - Project Release\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.pdb
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\project\[StudentsVer] Lab7 - Project Release\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.dll
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\project\[StudentsVer] Lab7 - Project Release\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\ref\PuzzleSolver.dll
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\project\[StudentsVer] Lab7 - Project Release\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.pdb
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\project\[StudentsVer] Lab7 - Project Release\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.genruntimeconfig.cache
+C:\Users\omar yassen\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.csproj.AssemblyReference.cache
+C:\Users\omar yassen\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.Form1.resources
+C:\Users\omar yassen\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.ui.Home.resources
+C:\Users\omar yassen\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.ui.LargeNForm.resources
+C:\Users\omar yassen\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.ui.Puzzle8Form.resources
+C:\Users\omar yassen\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.csproj.GenerateResource.cache
+C:\Users\omar yassen\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omar yassen\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.AssemblyInfoInputs.cache
+C:\Users\omar yassen\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.AssemblyInfo.cs
+C:\Users\omar yassen\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.csproj.CoreCompileInputs.cache
+C:\Users\omar yassen\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.dll
+C:\Users\omar yassen\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.pdb
+C:\Users\omar yassen\Downloads\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.exe
+C:\Users\omar yassen\Downloads\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.deps.json
+C:\Users\omar yassen\Downloads\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.runtimeconfig.json
+C:\Users\omar yassen\Downloads\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.runtimeconfig.dev.json
+C:\Users\omar yassen\Downloads\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.dll
+C:\Users\omar yassen\Downloads\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.pdb
+C:\Users\omar yassen\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\refint\PuzzleSolver.dll
+C:\Users\omar yassen\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.genruntimeconfig.cache
+C:\Users\omar yassen\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\ref\PuzzleSolver.dll
+C:\Users\Rengo\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.csproj.AssemblyReference.cache
+C:\Users\Rengo\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.Form1.resources
+C:\Users\Rengo\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.ui.Home.resources
+C:\Users\Rengo\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.ui.LargeNForm.resources
+C:\Users\Rengo\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.ui.Puzzle8Form.resources
+C:\Users\Rengo\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.csproj.GenerateResource.cache
+C:\Users\Rengo\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rengo\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.AssemblyInfoInputs.cache
+C:\Users\Rengo\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.AssemblyInfo.cs
+C:\Users\Rengo\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.csproj.CoreCompileInputs.cache
+C:\Users\Rengo\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.dll
+C:\Users\Rengo\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\ref\PuzzleSolver.dll
+C:\Users\Rengo\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.pdb
+C:\Users\Rengo\Downloads\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.exe
+C:\Users\Rengo\Downloads\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.deps.json
+C:\Users\Rengo\Downloads\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.runtimeconfig.json
+C:\Users\Rengo\Downloads\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.runtimeconfig.dev.json
+C:\Users\Rengo\Downloads\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.dll
+C:\Users\Rengo\Downloads\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\ref\PuzzleSolver.dll
+C:\Users\Rengo\Downloads\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.pdb
+C:\Users\Rengo\Downloads\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.genruntimeconfig.cache
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.exe
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.deps.json
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.runtimeconfig.json
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.runtimeconfig.dev.json
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.dll
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\ref\PuzzleSolver.dll
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.pdb
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.csproj.AssemblyReference.cache
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.Form1.resources
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.ui.Home.resources
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.ui.LargeNForm.resources
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.ui.Puzzle8Form.resources
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.csproj.GenerateResource.cache
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.GeneratedMSBuildEditorConfig.editorconfig
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.AssemblyInfoInputs.cache
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.AssemblyInfo.cs
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.csproj.CoreCompileInputs.cache
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.dll
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\ref\PuzzleSolver.dll
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.pdb
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.genruntimeconfig.cache
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\[ALG'22] L01 - Intro + Analysis I\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.exe
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\[ALG'22] L01 - Intro + Analysis I\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.deps.json
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\[ALG'22] L01 - Intro + Analysis I\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.runtimeconfig.json
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\[ALG'22] L01 - Intro + Analysis I\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.runtimeconfig.dev.json
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\[ALG'22] L01 - Intro + Analysis I\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.dll
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\[ALG'22] L01 - Intro + Analysis I\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\ref\PuzzleSolver.dll
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\[ALG'22] L01 - Intro + Analysis I\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.pdb
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\[ALG'22] L01 - Intro + Analysis I\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.csproj.AssemblyReference.cache
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\[ALG'22] L01 - Intro + Analysis I\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.Form1.resources
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\[ALG'22] L01 - Intro + Analysis I\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.ui.Home.resources
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\[ALG'22] L01 - Intro + Analysis I\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.ui.LargeNForm.resources
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\[ALG'22] L01 - Intro + Analysis I\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.ui.Puzzle8Form.resources
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\[ALG'22] L01 - Intro + Analysis I\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.csproj.GenerateResource.cache
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\[ALG'22] L01 - Intro + Analysis I\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.GeneratedMSBuildEditorConfig.editorconfig
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\[ALG'22] L01 - Intro + Analysis I\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.AssemblyInfoInputs.cache
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\[ALG'22] L01 - Intro + Analysis I\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.AssemblyInfo.cs
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\[ALG'22] L01 - Intro + Analysis I\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.csproj.CoreCompileInputs.cache
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\[ALG'22] L01 - Intro + Analysis I\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.dll
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\[ALG'22] L01 - Intro + Analysis I\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\ref\PuzzleSolver.dll
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\[ALG'22] L01 - Intro + Analysis I\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.pdb
+F:\RENGO\year3\term 2\Algorithms\Ahmed Salah Videos\[ALG'22] L01 - Intro + Analysis I\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.genruntimeconfig.cache
+D:\Games\Minecraft\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.exe
+D:\Games\Minecraft\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.deps.json
+D:\Games\Minecraft\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.runtimeconfig.json
+D:\Games\Minecraft\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.runtimeconfig.dev.json
+D:\Games\Minecraft\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.dll
+D:\Games\Minecraft\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.pdb
+D:\Games\Minecraft\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.csproj.AssemblyReference.cache
+D:\Games\Minecraft\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.Form1.resources
+D:\Games\Minecraft\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.ui.Home.resources
+D:\Games\Minecraft\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.ui.LargeNForm.resources
+D:\Games\Minecraft\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.ui.Puzzle8Form.resources
+D:\Games\Minecraft\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.csproj.GenerateResource.cache
+D:\Games\Minecraft\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\Minecraft\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.AssemblyInfoInputs.cache
+D:\Games\Minecraft\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.AssemblyInfo.cs
+D:\Games\Minecraft\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.csproj.CoreCompileInputs.cache
+D:\Games\Minecraft\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.dll
+D:\Games\Minecraft\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\refint\PuzzleSolver.dll
+D:\Games\Minecraft\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.pdb
+D:\Games\Minecraft\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.genruntimeconfig.cache
+D:\Games\Minecraft\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\ref\PuzzleSolver.dll
+D:\Games\New folder (2)\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.exe
+D:\Games\New folder (2)\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.deps.json
+D:\Games\New folder (2)\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.runtimeconfig.json
+D:\Games\New folder (2)\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.runtimeconfig.dev.json
+D:\Games\New folder (2)\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.dll
+D:\Games\New folder (2)\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.pdb
+D:\Games\New folder (2)\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.csproj.AssemblyReference.cache
+D:\Games\New folder (2)\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.Form1.resources
+D:\Games\New folder (2)\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.ui.Home.resources
+D:\Games\New folder (2)\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.ui.LargeNForm.resources
+D:\Games\New folder (2)\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.ui.Puzzle8Form.resources
+D:\Games\New folder (2)\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.csproj.GenerateResource.cache
+D:\Games\New folder (2)\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\New folder (2)\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.AssemblyInfoInputs.cache
+D:\Games\New folder (2)\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.AssemblyInfo.cs
+D:\Games\New folder (2)\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.csproj.CoreCompileInputs.cache
+D:\Games\New folder (2)\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.dll
+D:\Games\New folder (2)\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\refint\PuzzleSolver.dll
+D:\Games\New folder (2)\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.pdb
+D:\Games\New folder (2)\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.genruntimeconfig.cache
+D:\Games\New folder (2)\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\ref\PuzzleSolver.dll
+F:\seif's college\Third Year\Second Term\Algorithm\Project\PuzzleSolver\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.exe
+F:\seif's college\Third Year\Second Term\Algorithm\Project\PuzzleSolver\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.deps.json
+F:\seif's college\Third Year\Second Term\Algorithm\Project\PuzzleSolver\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.runtimeconfig.json
+F:\seif's college\Third Year\Second Term\Algorithm\Project\PuzzleSolver\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.runtimeconfig.dev.json
+F:\seif's college\Third Year\Second Term\Algorithm\Project\PuzzleSolver\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.dll
+F:\seif's college\Third Year\Second Term\Algorithm\Project\PuzzleSolver\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\ref\PuzzleSolver.dll
+F:\seif's college\Third Year\Second Term\Algorithm\Project\PuzzleSolver\PuzzleSolver\PuzzleSolver\bin\Debug\net5.0-windows\PuzzleSolver.pdb
+F:\seif's college\Third Year\Second Term\Algorithm\Project\PuzzleSolver\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.csproj.AssemblyReference.cache
+F:\seif's college\Third Year\Second Term\Algorithm\Project\PuzzleSolver\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.Form1.resources
+F:\seif's college\Third Year\Second Term\Algorithm\Project\PuzzleSolver\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.ui.Home.resources
+F:\seif's college\Third Year\Second Term\Algorithm\Project\PuzzleSolver\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.ui.LargeNForm.resources
+F:\seif's college\Third Year\Second Term\Algorithm\Project\PuzzleSolver\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.ui.Puzzle8Form.resources
+F:\seif's college\Third Year\Second Term\Algorithm\Project\PuzzleSolver\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.csproj.GenerateResource.cache
+F:\seif's college\Third Year\Second Term\Algorithm\Project\PuzzleSolver\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.GeneratedMSBuildEditorConfig.editorconfig
+F:\seif's college\Third Year\Second Term\Algorithm\Project\PuzzleSolver\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.AssemblyInfoInputs.cache
+F:\seif's college\Third Year\Second Term\Algorithm\Project\PuzzleSolver\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.AssemblyInfo.cs
+F:\seif's college\Third Year\Second Term\Algorithm\Project\PuzzleSolver\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.csproj.CoreCompileInputs.cache
+F:\seif's college\Third Year\Second Term\Algorithm\Project\PuzzleSolver\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.dll
+F:\seif's college\Third Year\Second Term\Algorithm\Project\PuzzleSolver\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\ref\PuzzleSolver.dll
+F:\seif's college\Third Year\Second Term\Algorithm\Project\PuzzleSolver\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.pdb
+F:\seif's college\Third Year\Second Term\Algorithm\Project\PuzzleSolver\PuzzleSolver\PuzzleSolver\obj\Debug\net5.0-windows\PuzzleSolver.genruntimeconfig.cache
